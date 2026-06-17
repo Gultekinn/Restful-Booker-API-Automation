@@ -1,3 +1,5 @@
+[![API Tests](https://github.com/Gultekinn/Restful-Booker-API-Automation/actions/workflows/api-tests.yml/badge.svg)](https://github.com/Gultekinn/Restful-Booker-API-Automation/actions/workflows/api-tests.yml)
+
 # Restful-Booker API Test Automation
 
 API Automation testing for the [Restful-Booker](https://restful-booker.herokuapp.com/apidoc/index.html) hotel booking API, built with **Postman**, **Newman**, and the **htmlextra** reporter. This portfolio demonstrates a professional approach to API testing — full CRUD coverage, automatic authentication handling, and a dedicated set of negative / edge-case tests.
