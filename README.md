@@ -40,13 +40,13 @@ No hardcoded URLs are used anywhere in the collection — everything runs throug
 
 ## 📊 Newman HTML Report — Preview
 
-**Summary Dashboard:**
-
-![Newman Dashboard](dashboard.png)
-
 **File Information & Run Summary:**
 
 ![File Information and Summary](dashboardd.png)
+
+**Summary Dashboard:**
+
+![Newman Dashboard](dashboard.png)
 
 **Request/Response Detail View:**
 
